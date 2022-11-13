@@ -58,17 +58,17 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Pantakan Kanprawet"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Pantakan Kanprawet is my name. I'm a driven individual searching for a chance to demonstrate my professional abilities."
+  name: "Pantakan Kanprawet"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Pantakan Kanprawet is my name. I'm a driven individual searching for a chance to demonstrate my professional abilities."
   links:
-    - label: "Website"
+    - label: "Resume"
       icon: "fas fa-fw fa-link"
       url: "https://touutae-lab.github.io/Touutae-lab/"
-    - label: "Twitter"
+    - label: "Iamtouutae"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/iamtouutae"
-    - label: "GitHub"
+    - label: "Touutae-lab"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Touutae-lab"
 
